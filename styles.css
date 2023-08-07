@@ -102,6 +102,12 @@ h3 {
         flex-wrap: wrap;
         align-items: center;
     }
+
+    tr {
+        display: inline-block;
+        flex-wrap: wrap;
+        width: 100%;
+    }
 }
 
 table {
