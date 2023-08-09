@@ -78,6 +78,13 @@ h3 {
     align-items: center;
 }
 
+.btn-white:hover {
+    border: 2px solid rgb(142, 192, 67);
+    transition: 0.1s;
+    color: rgb(142, 192, 67);
+    font-weight: 600;
+}
+
 .logo-list li {
     margin: 10px;
 }
