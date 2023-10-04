@@ -33,10 +33,13 @@ h3 {
 }
 
 .black-section {
-    background-color: #413e3e;
-    color: white;
+    background-color: #333333;
+    color: rgb(209, 213, 214);
 }
 
+.white-text {
+    color: #fff;
+}
 
 .white-section {
     background-color: #eef5db;
@@ -81,9 +84,9 @@ h3 {
 }
 
 .btn-white:hover {
-    border: 2px solid rgb(142, 192, 67);
+    border: 2px solid #87af5f;
     transition: 0.1s;
-    color: rgb(142, 192, 67);
+    color: #87af5f;
     font-weight: 600;
 }
 
@@ -137,8 +140,7 @@ td {
 
 
 footer {
-    background-color: #413e3e;
-
+    background-color: #333333;
     position: absolute;
     width: 100%;
 
@@ -146,5 +148,5 @@ footer {
 
 footer > p {
     text-align: center;
-    color: white;
+    color: rgb(209, 213, 214) ;
 }
