@@ -120,6 +120,11 @@ h3 {
         flex-wrap: wrap;
         width: 100%;
     }
+
+    .section {
+        padding-left: 12%;
+        padding-right: 12%;
+    }
 }
 
 table {
@@ -146,7 +151,11 @@ footer {
 
 }
 
-footer > p {
+footer>p {
     text-align: center;
-    color: rgb(209, 213, 214) ;
+    color: rgb(209, 213, 214);
+}
+
+.company-site {
+    color: #181818;
 }
